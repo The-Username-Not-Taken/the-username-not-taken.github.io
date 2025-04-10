@@ -1,0 +1,64 @@
+html { 
+    background-color: whitesmoke;    
+}
+
+body {
+    font-family: Courier;
+}
+
+div {
+    padding: 0px 80px 10px 80px;
+    margin: auto;
+    width: 50%;
+    line-height: 1.25;
+}
+
+h2 {
+    padding: 20px 80px 10px 80px;
+    margin: auto;
+    width: 50%;
+}
+
+.begin {
+    padding: 80px 80px 10px 80px;
+}
+
+.header {
+    padding: 0px 80px 30px 80px;
+}
+
+a:link {
+    color:black;
+    text-decoration: none;
+}
+
+a:visited {
+    color:black;
+    text-decoration: none;
+}
+
+a:hover {
+    color:black;
+    text-decoration: underline;
+}
+
+a:active {
+    color:black;
+    text-decoration: bold, underline;
+}
+
+.home_cur {
+    cursor: url(home.png), auto;
+}
+
+.research_cur {
+    cursor: url(research.png), auto;
+}
+
+.hobbies_cur {
+    cursor: url(hobbies.png), auto;
+}
+
+.contact_cur {
+    cursor: url(contact.png), auto;
+}
